@@ -13,7 +13,7 @@ const Switch1 = () => {
     handleSubmit,
     } = useForm();
 
-
+   console.log("akash");
 
   const onSubmit = (data) => {
        
